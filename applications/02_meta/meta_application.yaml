@@ -12,7 +12,7 @@ spec:
 
   # Source of the application manifests
   source:
-    repoURL: https://github.com/chris-vest/argocd_workshop.git
+    repoURL: https://github.com/vladimir-babichev/argocd_workshop.git
     targetRevision: master
     path: ./applications/
 
